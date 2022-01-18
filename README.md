@@ -1,4 +1,5 @@
-# ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
+# post method
+http://localhost/ci-angular/api/example/test
 
-My alternate version https://github.com/ardisaurus/old-rest-ci
+base64 => "ANY"
+fotoarray => "ANY"
